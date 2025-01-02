@@ -1,2 +1,17 @@
-# study_express
-練習node.js的express
+# 練習node.js的express
+
+## 安裝
+
+- `npm init -y`
+
+- `npm install --save-dev typescript @types/express @types/node`
+
+- `npm install --save express`
+
+- `tsc --init`
+
+- `npm install --save-dev nodemon ts-node`
+
+## 啟動
+
+- `npm run start`
