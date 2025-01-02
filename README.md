@@ -12,6 +12,10 @@
 
 - `npm install --save-dev nodemon ts-node`
 
-## 啟動
+## 操作
 
-- `npm run start`
+- `npm run start`: 執行ts
+
+- `npm run build`: ts編譯成js
+
+- `node main.js`: 執行js
