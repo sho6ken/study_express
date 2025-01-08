@@ -1,5 +1,3 @@
-# 練習node.js的express
-
 ## 安裝
 
 - `npm init -y`
